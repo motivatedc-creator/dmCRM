@@ -1,0 +1,6 @@
+{
+  "name": "Sixth Gear Garage Dashboard",
+  "description": "Invoice, quotation, and diagnostic report management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
