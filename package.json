@@ -32,6 +32,8 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
+    "webpack": "^X.X.X",
+    "webpack-cli": "^X.X.X"
     "@tailwindcss/postcss": "4.1.11",
     "@tailwindcss/typography": "^0.5.19",
     "@types/node": "^20",
